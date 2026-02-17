@@ -1,0 +1,13 @@
+{
+  "name": "r34-telegram-bot",
+  "version": "1.0.0",
+  "description": "Rule34 bot for Telegram",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
